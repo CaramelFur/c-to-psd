@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "node-c-lexer"
+		},
+		{
+			"path": "node-c-parser"
+		},
+		{
+			"path": "c-to-psd"
+		}
+	],
+	"settings": {}
+}
